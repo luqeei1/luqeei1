@@ -5,7 +5,7 @@ Full-stack developer | Software Engineer
 ---
 ## 📊 GitHub Stats
 
-![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqeei1&show_icons=true&theme=radical
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=luqeei1&show_icons=true&theme=radical)
 
 ---
 ## 🎓 Education
