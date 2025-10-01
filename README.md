@@ -21,7 +21,7 @@ Full-stack developer | Software Engineer
 *Jul 2025 – Sep 2025*  
 - Built OncoFlow’s healthcare app using React (TypeScript) and TailwindCSS  
 - Engineered an Express.js (TypeScript) notification service, reducing email latency by 42%  
-- Implemented Redis caching in Docker, reducing repeated LLM queries by 50%+  
+- Implemented Redis caching in Docker, reducing repeated chat suggestion queries to selected LLM by 50%+  
 - Optimized AI prompts with Python FastAPI on AWS EC2 for accurate PDF extraction and medical-grade guidance  
 
 ### **BP Digital Science Sector** – Insight  
