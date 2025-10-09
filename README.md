@@ -47,4 +47,5 @@ Full-stack developer | Software Engineer
 ## 📫 Contact Me
 
 - **Email:** abgopalam@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/akarsh-gopalam-0778b722a](www.linkedin.com/in/akarsh-gopalam-0778b722a)
+- **LinkedIn:** [www.linkedin.com/in/akarsh-gopalam-0778b722a](https://www.linkedin.com/in/akarsh-gopalam-0778b722a)
+
