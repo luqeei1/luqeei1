@@ -1,6 +1,6 @@
 # Hi, I'm Akarsh Bharadwaj Gopalam 👋
 
-Full-stack developer | Software Engineer
+Software Engineer
 
 
 ## 🎓 Education
