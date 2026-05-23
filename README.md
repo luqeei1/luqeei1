@@ -5,7 +5,7 @@ Full-stack developer | Software Engineer
 ---
 ## 📊 My Repo Language Split
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqeei1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqeei1&layout=compact&theme=radical&langs_count=8)
 
 ---
 ## 🎓 Education
