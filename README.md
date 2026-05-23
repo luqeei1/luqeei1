@@ -2,12 +2,7 @@
 
 Full-stack developer | Software Engineer
 
----
-## 📊 My Repo Language Split
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqeei1&layout=compact&theme=radical&langs_count=8)
-
----
 ## 🎓 Education
 
 **Imperial College London** – MEng Electronic and Information Engineering  
@@ -20,6 +15,10 @@ Full-stack developer | Software Engineer
 ---
 
 ## 💼 Professional Experience
+
+### **Qualcomm** – Software Engineering Intern  
+*Apr 2026 – Sep 2026* 
+- Interning on the Voice and Music tools (Pylib) team
 
 ### **OncoFlow** – Software Engineering & AI Intern  
 *Jul 2025 – Sep 2025*  
